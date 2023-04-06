@@ -1,0 +1,37 @@
+.LOGINUP
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Login1
+{
+    display: flex;
+     font-size: 40px; 
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 12px;
+    justify-content: center;
+}
+.loginupdetail
+{
+    display: flex;
+    font-size: 23px;
+    margin:12px;
+}
+
+.button
+{
+    display: flex;
+    font-size: 23px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 104px;
+}
+.button1
+{ 
+    display: flex;
+     font-size: 23px;
+     margin-top: 12px;
+     margin-left: 110px;
+    /* margin-left: 10px; */
+ } 
